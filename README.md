@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm RITU RAJ</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/@rituraj2520" target="blank"><img src="https://img.shields.io/twitter/follow/@rituraj2520?logo=twitter&style=for-the-badge" alt="@rituraj2520" /></a> </p>
