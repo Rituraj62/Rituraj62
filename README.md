@@ -1,3 +1,4 @@
+![logo](https://github.com/Rituraj62/Rituraj62/blob/main/RITU%20RAJ%20(1).png)
 # 💫 Hi 👋, I'm Ritu Raj
 **A passionate Software Developer || Fresher
 
